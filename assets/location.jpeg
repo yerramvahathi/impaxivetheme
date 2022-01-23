@@ -1,0 +1,1148 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://www.impaxivesolutions.com/ -->
+<html class=" js " lang="en" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!-- title -->
+        <title>Impaxive Solutions| Artificial Intelligence &amp; Automation Solutions | Chatbot Development | Data Analytics </title>
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+        <meta name="author" content="ThemeZaa">
+        <!-- description -->
+        <meta name="description" content="Chatbot Development, Artificial Intelligence Solutions, Robotic Process Automation, Mobile Application Development &amp; Website Development Services">
+        <!-- keywords -->
+        <meta name="keywords" content="Chatbot Development, Artificial Intelligence Solutions, Robotic Procsss Autoomation, uipath, automation anywhere Mobile Application Development &amp; Website Development Services">
+        <!-- favicon -->
+        <link rel="shortcut icon" href="https://www.impaxivesolutions.com/images/favicon.ico">
+        <link rel="apple-touch-icon" href="https://www.impaxivesolutions.com/images/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://www.impaxivesolutions.com/images/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://www.impaxivesolutions.com/images/apple-touch-icon-114x114.png">
+        <!-- animation -->
+        <link rel="stylesheet" href="./location_files/animate.css">
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="./location_files/bootstrap.min.css">
+        <!-- et line icon --> 
+        <link rel="stylesheet" href="./location_files/et-line-icons.css">
+        <!-- font-awesome icon -->
+        <link rel="stylesheet" href="./location_files/font-awesome.min.css">
+        <!-- themify icon -->
+        <link rel="stylesheet" href="./location_files/themify-icons.css">
+        <!-- swiper carousel -->
+        <link rel="stylesheet" href="./location_files/swiper.min.css">
+        <!-- justified gallery  -->
+        <link rel="stylesheet" href="./location_files/justified-gallery.min.css">
+        <!-- magnific popup -->
+        <link rel="stylesheet" href="./location_files/magnific-popup.css">
+        <!-- revolution slider -->
+        <link rel="stylesheet" type="text/css" href="./location_files/settings.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="./location_files/layers.css">
+        <link rel="stylesheet" type="text/css" href="./location_files/navigation.css">
+        <!-- bootsnav -->
+        <link rel="stylesheet" href="./location_files/bootsnav.css">
+        <!-- style -->
+        <link rel="stylesheet" href="./location_files/style.css">
+        <!-- responsive css -->
+        <link rel="stylesheet" href="./location_files/responsive.css">
+        <!--[if IE]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+		<!-- <script>var chatbot_id=6358;!function(){var t,e,a=document,s="smatbot-chatbot";a.getElementById(s)||(t=a.createElement("script"),t.id=s,t.type="text/javascript",t.src="https://s3.amazonaws.com/installchatbot/files/chatbot_plugin.js.gz",e=a.getElementsByTagName("script")[0],e.parentNode.insertBefore(t,e))}();</script><script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js"></script> -->
+        <style>
+            html {
+                scroll-behavior: smooth;
+            }
+            a:hover, a:active {
+                color: #ff4500;
+            }
+            .select-style {
+                border: none;
+                border-bottom: 1px solid #484848;
+            }
+            .border-color-medium-dark-gray {
+                border-color: #484848 !important;
+            }
+            input, textarea, select {
+                color: white;
+            }
+            ::placeholder {
+                color: white;
+                opacity: 1; /* Firefox */
+            }
+            :-ms-input-placeholder { /* Internet Explorer 10-11 */
+                color: white;
+            }
+
+            ::-ms-input-placeholder { /* Microsoft Edge */
+                color: white;
+            }
+            .select-style select {
+                appearance: auto;
+            }
+            header nav .navbar-nav > li > a {
+                font-size: 14px;
+            }
+            .full-screen {
+                min-height: 625px !important;
+            }
+        </style>
+		
+    <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+	
+    <body>
+        <!-- start header -->
+        <header class="sticky header-appear">
+            <!-- start navigation -->
+            <nav class="navbar navbar-default bootsnav navbar-fixed-top header-light-transparent background-white nav-box-width navbar-expand-lg on no-full" style="box-shadow: 0 5px 10px -10px rgba(0, 0, 0, 0.6);">
+                <div class="container-fluid nav-header-container">
+                    <div class="col-auto pl-lg-0">
+                        <a href="https://www.impaxivesolutions.com/" title="Impaxive Solutions" class="logo"><img src="./location_files/logo.png" data-rjs="images/logo.png" class="logo-dark" alt="Impaxive Solutions" data-rjs-processed="true" width="156" height="55"><img src="./location_files/logo.png" data-rjs="images/logo.png" alt="Impaxive Solutions" class="logo-light default" data-rjs-processed="true" width="156" height="55"></a>
+                    </div>
+                    <div class="col-auto col-lg accordion-menu pr-lg-0">
+                        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbar-collapse-toggle-1" aria-expanded="false">
+                            <span class="sr-only">toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
+                            <ul class="nav navbar-nav alt-font font-weight-700">
+                                <li><a href="https://www.impaxivesolutions.com/" title="Home" class="inner-link">Home</a></li>
+                                <li><a href="https://www.impaxivesolutions.com/about-impaxive-solutions.html" title="About" class="inner-link">About</a></li>
+                                <li class="dropdown simple-dropdown"><a href="https://www.impaxivesolutions.com/#">Services</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <ul class="dropdown-menu animated" style="top: 60px; display: none; opacity: 1;">
+                                        <li><a href="https://www.impaxivesolutions.com/ai-solutions.html">Artificial Intelligence</a></li>
+                                        <li><a href="https://www.impaxivesolutions.com/data-analytics.html">Data Analytics</a></li>
+                                        <li><a href="https://www.impaxivesolutions.com/process-automation.html">Process Automation</a></li>
+                                        <li><a href="https://www.impaxivesolutions.com/app-development.html">App Development</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="https://www.impaxivesolutions.com/technologies.html" title="Technologies" class="inner-link">Technologies</a></li>
+                                <li><a href="https://www.impaxivesolutions.com/portfolio.html" title="Our Work" class="inner-link">Our Work</a></li>
+                                <li><a href="https://www.impaxivesolutions.com/contact-impaxive-solutions.html" title="Contact" class="inner-link">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+			<!-- end navigation -->  
+        </header>
+        <!-- end header -->
+		<!-- start slider section -->
+        <section class="no-padding main-slider height-100 mobile-height wow fadeIn" id="home" style="visibility: visible; animation-name: fadeIn;">
+            <div class="swiper-full-screen swiper-container height-100 width-100 black-move swiper-container-initialized swiper-container-horizontal">
+                <div class="swiper-wrapper" style="transform: translate3d(-3789px, 0px, 0px); transition-duration: 300ms;"><div class="swiper-slide cover-background swiper-slide-duplicate swiper-slide-duplicate-next" style="background-image: url(&quot;images/sliderbg.jpg&quot;); width: 1263px;" data-swiper-slide-index="3">
+                        <a href="https://www.impaxivesolutions.com/app-development.html">
+                            <div class="container position-relative full-screen" style="min-height: 520px;">
+                                <div class="col-md-12 slider-typography text-center text-md-left">
+                                    <div class="slider-typography text-left">
+                                        <div class="slider-text-middle-main">
+                                            <div class="slider-text-middle">
+                                                <div class="col-12 col-xl-10 col-md-10 mx-auto text-center">
+                                                        <img src="./location_files/icon-6.png"><br>
+                                                    <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Application Development</span>
+                                                    <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Creating impactful digital experiences to market the business offerings</h2>
+                                                    
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					<!-- start slider item -->
+                    <div class="swiper-slide cover-background" style="background-image: url(&quot;images/sliderbg.jpg&quot;); width: 1263px;" data-swiper-slide-index="0">
+                        <a href="https://www.impaxivesolutions.com/ai-solutions.html">
+                            <div class="container position-relative full-screen" style="min-height: 520px;">
+                                <div class="col-md-12 slider-typography text-center text-md-left">
+                                    <div class="slider-typography text-left">
+                                        <div class="slider-text-middle-main">
+                                            <div class="slider-text-middle">
+                                                <div class="col-12 col-xl-12 col-md-10 mx-auto text-center">
+                                                        <img src="./location_files/icon-5.png"><br>
+                                                    <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Artificial Intelligence</span>
+                                                    <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Robust &amp; Smart AI solutions to improve business performance</h2>
+                                                    <!-- <a href="portfolio-full-width-grid-transform.html" class="btn btn-transparent-white btn-rounded btn-medium text-link-white-2">Featured Works</a> -->
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- end slider item -->
+					<!-- start slider item -->
+                    <div class="swiper-slide cover-background swiper-slide-prev" style="background-image: url(&quot;images/sliderbg.jpg&quot;); width: 1263px;" data-swiper-slide-index="1">
+                        <a href="https://www.impaxivesolutions.com/process-automation.html">
+                            <div class="container position-relative full-screen" style="min-height: 520px;">
+                                <div class="col-md-12 slider-typography text-center text-md-left">
+                                    <div class="slider-typography text-left">
+                                        <div class="slider-text-middle-main">
+                                            <div class="slider-text-middle">
+                                                <div class="col-12 col-xl-10 col-md-10 mx-auto text-center">
+                                                        <img src="./location_files/icon-3.png"><br>
+                                                    <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Business Process Automation</span>
+                                                    <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Redefining productivity with automation solutions</h2>
+                                                    <!-- <a href="portfolio-full-width-grid-transform.html" class="btn btn-transparent-white btn-rounded btn-medium text-link-white-2">Featured Works</a> -->
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- end slider item -->
+					<!-- start slider item -->
+                    <div class="swiper-slide cover-background swiper-slide-active" style="background-image: url(&quot;images/sliderbg.jpg&quot;); width: 1263px;" data-swiper-slide-index="2">
+                        <a href="https://www.impaxivesolutions.com/app-development.html">
+                            <div class="container position-relative full-screen" style="min-height: 520px;">
+                                <div class="col-md-12 slider-typography text-center text-md-left">
+                                    <div class="slider-typography text-left">
+                                        <div class="slider-text-middle-main">
+                                            <div class="slider-text-middle">
+                                                <div class="col-12 col-xl-10 col-md-10 mx-auto text-center">
+                                                        <img src="./location_files/icon-4.png"><br>
+                                                    <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Data Analytics</span>
+                                                    <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Deep insights to aid critical decision making</h2>
+                                                    
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- end slider item -->
+                    <!-- start slider item -->
+                    <div class="swiper-slide cover-background swiper-slide-next" style="background-image: url(&quot;images/sliderbg.jpg&quot;); width: 1263px;" data-swiper-slide-index="3">
+                        <a href="https://www.impaxivesolutions.com/app-development.html">
+                            <div class="container position-relative full-screen" style="min-height: 520px;">
+                                <div class="col-md-12 slider-typography text-center text-md-left">
+                                    <div class="slider-typography text-left">
+                                        <div class="slider-text-middle-main">
+                                            <div class="slider-text-middle">
+                                                <div class="col-12 col-xl-10 col-md-10 mx-auto text-center">
+                                                        <img src="./location_files/icon-6.png"><br>
+                                                    <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Application Development</span>
+                                                    <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Creating impactful digital experiences to market the business offerings</h2>
+                                                    
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- end slider item -->
+				<div class="swiper-slide cover-background swiper-slide-duplicate" style="background-image: url(&quot;images/sliderbg.jpg&quot;); width: 1263px;" data-swiper-slide-index="0">
+                        <a href="https://www.impaxivesolutions.com/ai-solutions.html">
+                            <div class="container position-relative full-screen" style="min-height: 520px;">
+                                <div class="col-md-12 slider-typography text-center text-md-left">
+                                    <div class="slider-typography text-left">
+                                        <div class="slider-text-middle-main">
+                                            <div class="slider-text-middle">
+                                                <div class="col-12 col-xl-12 col-md-10 mx-auto text-center">
+                                                        <img src="./location_files/icon-5.png"><br>
+                                                    <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Artificial Intelligence</span>
+                                                    <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Robust &amp; Smart AI solutions to improve business performance</h2>
+                                                    <!-- <a href="portfolio-full-width-grid-transform.html" class="btn btn-transparent-white btn-rounded btn-medium text-link-white-2">Featured Works</a> -->
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div></div>
+                <!-- start slider pagination -->
+                <div class="swiper-pagination swiper-full-screen-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+                <div class="swiper-button-next swiper-button-black-highlight d-none" tabindex="0" role="button" aria-label="Next slide"></div>
+                <div class="swiper-button-prev swiper-button-black-highlight d-none" tabindex="0" role="button" aria-label="Previous slide"></div>
+                <!-- end slider pagination -->
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        </section>
+        <!-- end slider section --> 
+		<!-- start feature box section -->
+        <section id="about" class="wow fadeIn half-section" style="visibility: visible; animation-name: fadeIn;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 text-left">
+                        <h5 class="alt-font font-weight-400 margin-15px-bottom" style="color: #ff4500;">Why We're Here</h5>
+                        <h4 class="text-extra-dark-gray font-weight-600 letter-spacing-minus-1 alt-font">Digital Transformation</h4>
+                        <div class="separator-line-horrizontal-medium-light margin-10px-top" style="background-color: #ff4500;"></div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 padding-40px-top">
+                        <span align="justify" class="text-large text-extra-dark-gray margin-20px-bottom d-block">IMPAXIVE SOLUTIONS helps its customers gain competitive edge &amp; commercial success with our digital transformation services and solutions</span>
+                        <p align="justify" class="text-large text-extra-dark-gray"> In a world of ever increasing advancements in IT, we help you ace your business processes keeping you abreast with latest technological interventions.</p>
+                        <p align="justify" class="text-large text-extra-dark-gray">Precision being our strong suit, we deliver tailor-made solutions regardless the complexity of your business requirement. We are driven by the conviction that the business value of technology comes from and through people. </p>
+                    </div>
+                </div>
+                <div class="row justify-content-center margin-50px-top">
+                    <div class="col-12 col-lg-6 col-md-8 text-center last-paragraph-no-margin">
+						<span class="alt-font text-extra-dark-gray text-medium margin-5px-bottom d-block">Proudly associated with</span>
+                        <img src="./location_files/Nasscom.png" class="margin-25px-top" style="height: 40px;" alt="">
+                    </div>  
+                </div>
+            </div>
+        </section>
+        <!-- start services section -->
+        <section id="services" class="bg-light-gray half-section">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-6 col-md-8 margin-four-bottom md-margin-20px-bottom sm-margin-10px-bottom text-center last-paragraph-no-margin">
+						<!--<span class="alt-font text-deep-pink text-medium margin-5px-bottom d-block">WHAT WE DO</span>-->
+                        <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom">Our Services</h5>
+                        <!-- <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum has been the industry's standard dummy text since.</p> -->
+                    </div>  
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row m-0">
+                            <!-- start interactive banners item -->
+                            <div class="col-12 col-md-3 padding-5px-all grid-item feature-box-4 wow slideInUp" style="visibility: visible; animation-name: slideInUp;">
+                                <div class="position-relative overflow-hidden">
+                                    <figure class="m-0">
+                                        <img src="./location_files/service-bg-1.jpg" alt="">
+                                        <div class="opacity-medium bg-extra-dark-gray"></div>
+                                        <figcaption>
+                                            <span class="text-light-gray margin-10px-bottom d-inline-block "></span>
+                                            <!-- <div class="separator-line-horrizontal-full d-inline-block margin-10px-bottom" style="background-color: #ff4500;"></div> -->
+                                            <span class="text-extra-large d-block text-white-2 alt-font margin-25px-bottom width-60 lg-width-100 md-margin-seven-bottom">Aritificial Intelligence</span>
+                                            <a href="https://www.impaxivesolutions.com/ai-solutions.html" class="btn btn-very-small btn-white font-weight-300">know more</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <!-- end interactive banners item -->
+                            <!-- start interactive banners item -->
+                            <div class="col-12 col-md-3 padding-5px-all grid-item feature-box-4 wow slideInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: slideInUp;">
+                                <div class="position-relative overflow-hidden">
+                                    <figure class="m-0">
+                                        <img src="./location_files/service-bg-3.jpg" alt="">
+                                        <div class="opacity-medium bg-extra-dark-gray"></div>
+                                        <figcaption>
+                                            <span class="text-light-gray margin-10px-bottom d-inline-block "></span>
+                                            <!-- <div class="separator-line-horrizontal-full d-inline-block margin-10px-bottom" style="background-color: #ff4500;"></div> -->
+                                            <span class="text-extra-large d-block text-white-2 alt-font margin-25px-bottom width-60 lg-width-100 md-margin-seven-bottom">Data Analytics</span>
+                                            <a href="https://www.impaxivesolutions.com/data-analytics.html" class="btn btn-very-small btn-white font-weight-300">know more</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <!-- end interactive banners item -->
+                            <!-- start interactive banners item -->
+                            <div class="col-12 col-md-3 padding-5px-all grid-item feature-box-4 wow slideInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: slideInUp;">
+                                <div class="position-relative overflow-hidden">
+                                    <figure class="m-0">
+                                        <img src="./location_files/service-bg-4.jpg" alt="">
+                                        <div class="opacity-medium bg-extra-dark-gray"></div>
+                                        <figcaption>
+                                            <span class="text-light-gray margin-10px-bottom d-inline-block "></span>
+                                            <!-- <div class="separator-line-horrizontal-full d-inline-block margin-10px-bottom" style="background-color: #ff4500;"></div> -->
+                                            <span class="text-extra-large d-block text-white-2 alt-font margin-25px-bottom width-60 lg-width-100 md-margin-seven-bottom">Process Automation</span>
+                                            <a href="https://www.impaxivesolutions.com/process-automation.html" class="btn btn-very-small btn-white font-weight-300">know more</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <!-- end interactive banners item -->
+                            <!-- start interactive banners item -->
+                            <div class="col-12 col-md-3 padding-5px-all grid-item feature-box-4 wow slideInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: slideInUp;">
+                                <div class="position-relative overflow-hidden">
+                                    <figure class="m-0">
+                                        <img src="./location_files/service-bg-2.jpg" alt="">
+                                        <div class="opacity-medium bg-extra-dark-gray"></div>
+                                        <figcaption>
+                                            <span class="text-light-gray margin-10px-bottom d-inline-block "></span>
+                                            <!-- <div class="separator-line-horrizontal-full d-inline-block margin-10px-bottom" style="background-color: #ff4500;"></div> -->
+                                            <span class="text-extra-large d-block text-white-2 alt-font margin-25px-bottom width-60 lg-width-100 md-margin-seven-bottom">App Development</span>
+                                            <a href="https://www.impaxivesolutions.com/app-development.html" class="btn btn-very-small btn-white font-weight-300">know more</a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <!-- end interactive banners item -->
+                            
+                        </div>
+                    </div>
+                </div>
+			</div>
+        </section>
+        <!-- end services section -->
+        <!-- start portfolio slider section -->
+        <section class="wow fadeIn half-section" id="clients" style="visibility: visible; animation-name: fadeIn;">
+            <div class="container d-none d-lg-block d-md-block">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-6 col-md-8 margin-four-bottom text-center last-paragraph-no-margin md-margin-40px-bottom sm-margin-30px-bottom">
+						<span class="alt-font text-deep-pink text-medium margin-5px-bottom d-block"></span>
+                        <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom">Technologies</h5>
+                    </div>  
+				</div>
+				<div class="row justify-content-center">
+                    <div class="col-12 col-lg-8 text-center tab-style3" id="animated-tab1">
+                        <!-- start tab navigation -->
+                        <ul class="nav nav-tabs margin-50px-bottom sm-margin-30px-bottom text-uppercase alt-font text-small font-weight-600 justify-content-center flex-column flex-md-row"> 
+                            <li class="nav-item"><a href="https://www.impaxivesolutions.com/#tab3_sec1" data-toggle="tab" class="nav-link text-dark-gray active">All</a></li>
+                            <li class="nav-item"><a href="https://www.impaxivesolutions.com/#tab3_sec2" data-toggle="tab" class="nav-link text-dark-gray">Front End</a></li>
+                            <li class="nav-item"><a href="https://www.impaxivesolutions.com/#tab3_sec3" data-toggle="tab" class="nav-link text-dark-gray">Back End</a></li>
+                            <li class="nav-item"><a href="https://www.impaxivesolutions.com/#tab3_sec4" data-toggle="tab" class="nav-link text-dark-gray">Database</a></li>
+                            <li class="nav-item"><a href="https://www.impaxivesolutions.com/#tab3_sec5" data-toggle="tab" class="nav-link text-dark-gray">Cloud</a></li>
+                            <li class="nav-item"><a href="https://www.impaxivesolutions.com/#tab3_sec6" data-toggle="tab" class="nav-link text-dark-gray">Other</a></li>
+                        </ul>
+                        <!-- end tab navigation -->
+                    </div>
+                </div>
+                <!-- start tab content -->
+                <div class="tab-content">
+                    <!-- start tab content -->
+                    <div id="tab3_sec1" class="tab-pane fade in active show"> 
+                        <div class="row">
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/uipath.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top ">
+                                    <span class="text-extra-dark-gray">UI Path</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/angular.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Angular</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/ionic.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Ionic</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/react.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">React</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/phyton.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Python</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/django-logo-positive.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Django</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/node-js.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Node JS</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/bootstrap.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Bootstrap</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/html-5.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Html</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/pphp.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">PHP</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/mongodb.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">MongoDB</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/mysql.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">My Sql</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/mssql.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Ms SQL</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/oracle.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Oracle</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/aws.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">AWS</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/azure.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Azure</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/google-clod.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Google Cloud</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/shoppify.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top ">
+                                    <span class="text-extra-dark-gray">Shopify</span>
+                                </div>
+                            </div>
+                            <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                                <div>
+                                    <img src="./location_files/woo-commerce.png" style="height: 70px;" alt="">
+                                </div>
+                                <div class="margin-15px-top ">
+                                    <span class="text-extra-dark-gray">Woo Commerce</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div id="tab3_sec2" class="tab-pane fade in"> 
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-2 col-md-2 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/angular.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Angular</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-2 col-md-2 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/ionic.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Ionic</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-2 col-md-2 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/react.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">React</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-2 col-md-2 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/bootstrap.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Bootstrap</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-2 col-md-2 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/html-5.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Html</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div id="tab3_sec3" class="tab-pane fade in"> 
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/phyton.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Python</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/django-logo-positive.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Django</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/node-js.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Node JS</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/pphp.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">PHP</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div id="tab3_sec4" class="tab-pane fade in"> 
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/mongodb.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">MongoDB</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/mysql.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">My Sql</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/mssql.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Ms SQL</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/oracle.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Oracle</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div id="tab3_sec5" class="tab-pane fade in"> 
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/aws.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">AWS</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/azure.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Azure</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/google-clod.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top">
+                                    <span class="text-extra-dark-gray">Google Cloud</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                    <!-- start tab content -->
+                    <div id="tab3_sec6" class="tab-pane fade in"> 
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/uipath.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top ">
+                                    <span class="text-extra-dark-gray">UI Path</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/shoppify.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top ">
+                                    <span class="text-extra-dark-gray">Shopify</span>
+                                </div>
+                            </div>
+                            <div class="col-12 text-center sm-margin-20px-top col-lg-3 col-md-3 last-paragraph-no-margin">
+                                <div>
+                                    <img src="./location_files/woo-commerce.png" style="height: 100px;" alt="">
+                                </div>
+                                <div class="margin-15px-top ">
+                                    <span class="text-extra-dark-gray">Woo Commerce</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
+                </div>
+                <!-- end tab content -->
+            </div>
+            <div class="container d-block d-lg-none d-md-none">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-6 col-md-8 margin-four-bottom text-center last-paragraph-no-margin md-margin-40px-bottom sm-margin-30px-bottom">
+						<span class="alt-font text-deep-pink text-medium margin-5px-bottom d-block"></span>
+                        <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom">Technologies</h5>
+                    </div>  
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/uipath.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top ">
+                            <span class="text-extra-dark-gray">UI Path</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/angular.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Angular</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/ionic.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Ionic</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/react.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">React</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/phyton.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Python</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/django-logo-positive.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Django</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/node-js.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Node JS</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/bootstrap.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Bootstrap</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/html-5.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Html</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/pphp.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">PHP</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/mongodb.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">MongoDB</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/mysql.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">My Sql</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/mssql.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Ms SQL</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/oracle.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Oracle</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/aws.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">AWS</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/azure.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Azure</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/google-clod.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top">
+                            <span class="text-extra-dark-gray">Google Cloud</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/shoppify.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top ">
+                            <span class="text-extra-dark-gray">Shopify</span>
+                        </div>
+                    </div>
+                    <div class="col-6 text-center sm-margin-20px-top col-lg-3 col-md-3 margin-30px-top">
+                        <div>
+                            <img src="./location_files/woo-commerce.png" style="height: 70px;" alt="">
+                        </div>
+                        <div class="margin-15px-top ">
+                            <span class="text-extra-dark-gray">Woo Commerce</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end portfolio slider section -->
+        <!-- start info banner style 01 section -->
+        <section class="wow half-section bg-light-gray fadeIn parallax" data-stellar-background-ratio="0.5" style="visibility: visible; animation-name: fadeIn; background-position: 0px -2657.23px;">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-7 text-center margin-four-bottom sm-margin-40px-bottom">
+                        <div class="position-relative overflow-hidden w-100">
+                            <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom">Our Recent Projects</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">                   
+                    <!-- start features box item -->
+                    <div class="col-12 col-md-4 md-margin-four-bottom sm-margin-30px-bottom wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="bg-white text-center">
+                            <a href="https://www.impaxivesolutions.com/recruitment-bot.html"><img src="./location_files/recruitment-bot.jpg" alt=""></a>
+                            <div class="padding-35px-lr padding-35px-tb md-padding-15px-all">
+                                <span class="text-extra-dark-gray font-weight-600 d-block alt-font margin-10px-bottom">Recruitment<br>Bot</span>
+                                <a href="https://www.impaxivesolutions.com/recruitment-bot.html" class="btn btn-very-small btn-transparent-black margin-5px-top">know more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <!-- <div class="col-12 col-md-3 md-margin-four-bottom sm-margin-30px-bottom wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="bg-white text-center">
+                            <a href="data-audit.html"><img src="images/data-audit.jpg" alt=""></a>
+                            <div class="padding-35px-lr padding-35px-tb md-padding-15px-all">
+                                <span class="text-extra-dark-gray font-weight-600 d-block alt-font margin-10px-bottom">Data Audit<br>Engine</span>
+                                <a href="data-audit.html" class="btn btn-very-small btn-transparent-black margin-5px-top">know more</a>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col-12 col-md-4 md-margin-four-bottom sm-margin-30px-bottom wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <div class="bg-white text-center">
+                            <a href="https://www.impaxivesolutions.com/corporate-events.html"><img src="./location_files/sync-tech.jpg" alt=""></a>
+                            <div class="padding-35px-lr padding-35px-tb md-padding-15px-all">
+                                <span class="text-extra-dark-gray font-weight-600 d-block alt-font margin-10px-bottom">Knowledge<br>Dissemination App</span>
+                                <a href="https://www.impaxivesolutions.com/corporate-events.html" class="btn btn-very-small btn-transparent-black margin-5px-top">know more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col-12 col-md-4 md-margin-four-bottom sm-margin-30px-bottom wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <div class="bg-white text-center">
+                            <a href="https://www.impaxivesolutions.com/fashion-marketplace.html"><img src="./location_files/voggish.jpg" alt=""></a>
+                            <div class="padding-35px-lr padding-35px-tb md-padding-15px-all">
+                                <span class="text-extra-dark-gray font-weight-600 d-block alt-font margin-10px-bottom">Fashion<br>Marketplace</span>
+                                <a href="https://www.impaxivesolutions.com/fashion-marketplace.html" class="btn btn-very-small btn-transparent-black margin-5px-top">know more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                </div>
+                <div class="row">
+                    <div class="col-12 text-center margin-30px-top">
+                        <a href="https://www.impaxivesolutions.com/portfolio.html" class="btn btn-small btn-rounded btn-dark-gray">View more</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end info banner style 01 section -->
+        <!-- start contact section -->
+        <section class="wow fadeIn p-0 bg-extra-dark-gray half-section" id="contact" style="visibility: visible; animation-name: fadeIn;">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-lg-6 cover-background md-height-550px sm-height-350px wow fadeIn" style="background: url(&quot;images/bg-img.jpg&quot;); visibility: visible; animation-name: fadeIn;">
+					</div>
+                    <div class="col-12 col-lg-6 padding-five-tb padding-six-lr md-padding-eleven-all text-center sm-padding-15px-lr wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+                        <h5 id="heading" class="margin-5px-bottom sm-margin-three-bottom text-white-2 alt-font font-weight-600 text-uppercase">Ready to Start a Project?</h5>
+                        <div id="caption" class="text-medium-gray alt-font text-small text-uppercase margin-55px-bottom md-margin-30px-bottom sm-margin-15px-bottom">TELL US MORE</div>
+                        <h6 id="success-msg" style="text-align: center !important; margin-top:150px !important; display:none; color:#fff">Thanks for your enquiry. We Will Get Back To You!</h6>
+                        <div>
+                            <form id="form" target="_self" onsubmit="return postToGoogle();" action="https://www.impaxivesolutions.com/" method="post">
+                                <div id="success-contact-form-2" class="mx-0" style="display: none;"></div>
+                                <input type="text" name="entry.1301309575" id="nameField" placeholder="Name*" class="input-border-bottom" required="">
+                                <input type="email" name="entry.2066660806" id="emailField" placeholder="E-mail*" class="input-border-bottom" required="">
+                                <input type="text" id="mobField" name="entry.1429330177" placeholder="Mobile Number" class="input-border-bottom">
+                                <div class="select-style medium-select border-color-medium-dark-gray" style="border-color: #484848;">
+                                    <select name="entry.1401123317" id="dropField" class="bg-extra-dark-gray mb-0" style="padding-left: 0; background-color: #1c1c1c !important;">
+                                        <option value="">Services</option>
+                                        <option value="Whatsapp Bot">Whatsapp Bot</option>
+                                        <option value="Recommendation Engine">Recommendation Engine</option>
+                                        <option value="Churn Prediction">Churn Prediction</option>
+                                        <option value="Chatbot">Chatbot</option>
+                                        <option value="Data Analytics">Data Analytics</option>
+                                        <option value="Process Automation">Process Automation</option>
+                                        <option value="Mobile App Development">Mobile App Development</option>
+                                        <option value="Web Development">Web Development</option>
+                                    </select>
+                                </div>
+                                <textarea name="entry.1398773090" id="commentField" placeholder="Your Message" class="input-border-bottom" required=""></textarea>
+                                <button id="send" type="submit" class="btn btn-small btn-deep-pink margin-30px-top sm-margin-three-top">send message</button>
+                            </form>
+							
+                        <script>
+                            function postToGoogle() {
+                                            var field1 = $("#nameField").val();
+                                            var field2 = $("#emailField").val();
+                                            var field3 = $("#mobField").val();
+                                            var field4 = $("#dropField").val();
+                                            var field5 = $("#commentField").val();
+                                                
+                                            
+                                            
+                                
+                                            $.ajax({
+                                                url: "https://docs.google.com/forms/d/e/1FAIpQLSelpu-EiLRpgicwzUjCiB2vu6iHe03GpZdpcuL65bfkSGGjZg/formResponse?",
+                                                data: {"entry.1301309575": field1, "entry.2066660806": field2, "entry.1429330177": field3, "entry.1401123317": field4, "entry.1398773090": field5},
+                                                type: "POST",
+                                                dataType: "xml",
+                                                success: function(result)
+                                                {
+                                                    window.location.href="thank-you.html";
+                                                },
+                                                error: function(x, y, z)
+                                                    {
+                            
+                                                        $('#success-msg').show();
+                                                        $('#form').hide();
+                                                        $('#heading').hide();
+                                                        $('#caption').hide();                                                        
+                                                    }
+                                            });
+                                            return false;
+                                        }
+                            </script>
+                        </div>
+                    </div>
+				</div>
+            </div>
+        </section>
+        <!-- end contact section -->
+        <!-- start features section -->
+        <section class="wow fadeIn border-bottom border-color-extra-light-gray half-section" style="visibility: visible; animation-name: fadeIn;">
+            <div class="container">
+                <div class="row">
+                    <!-- start features box item -->
+                    <div class="col-12 col-lg-4 col-md-6 text-center md-margin-50px-bottom sm-margin-30px-bottom wow fadeInUp last-paragraph-no-margin" style="visibility: visible; animation-name: fadeInUp;">
+                        <i class="icon-map-pin icon-medium margin-25px-bottom sm-margin-10px-bottom"></i>
+                        <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">Visit Our Office</div>
+                        <p class="width-100 sm-margin-10px-bottom mx-auto">Impaxive Solutions Pvt. Ltd.<br>
+                            CWS ONE, Plot No 40,41 &amp; 42,<br>
+                            Survery No. 54, Kondapur (Behind NISUM),<br>
+                            Hyderabad - 500084</p>
+                        
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col-12 col-lg-4 col-md-6 text-center md-margin-50px-bottom sm-margin-30px-bottom wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                        <i class="icon-chat icon-medium margin-25px-bottom sm-margin-10px-bottom"></i>
+                        <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">Let's Talk</div>
+                        <p class="width-70 lg-width-85 md-width-50 sm-width-60 sm-margin-10px-bottom mx-auto">+91 6309801115</p>
+                        
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col-12 col-lg-4 col-md-6 text-center sm-margin-30px-bottom wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                        <i class="icon-envelope icon-medium margin-25px-bottom sm-margin-10px-bottom"></i>
+                        <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">E-mail Us</div>
+                        <p class="width-70 lg-width-85 md-width-50 sm-width-60 sm-margin-10px-bottom mx-auto"><a href="mailto:info@impaxivesolutions.com">info@impaxivesolutions.com</a></p>
+                        
+                    </div>
+                    <!-- end features box item -->
+                </div>
+            </div>
+        </section>
+        <!-- end features section -->
+        <!-- start footer --> 
+        <footer class="footer-strip bg-light-gray padding-50px-tb sm-padding-30px-tb">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- start logo -->
+                    <div class="col-md-3 text-center text-lg-left sm-margin-20px-bottom">
+                        <a href="https://www.impaxivesolutions.com/index.html"><img class="footer-logo" src="./location_files/logo.png" data-rjs="images/logo.png" alt="Impaxive Solutions" data-rjs-processed="true" width="113" height="40"></a>
+                    </div> 
+                    
+					<div class="col-md-9 text-center text-lg-right">
+                        Copyright © 2021 Impaxive Solutions Private Limited  
+                    </div>
+                    
+                </div>
+            </div>
+        </footer>
+        <!-- end footer -->
+        <!-- start scroll to top -->
+        <a class="scroll-top-arrow" href="javascript:void(0);" style="display: block;"><i class="ti-arrow-up"></i></a>
+        <!-- end scroll to top  -->
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="./location_files/jquery.js.download"></script>
+        <script type="text/javascript" src="./location_files/modernizr.js.download"></script>
+        <script type="text/javascript" src="./location_files/bootstrap.bundle.js.download"></script>
+        <script type="text/javascript" src="./location_files/jquery.easing.1.3.js.download"></script>
+        <script type="text/javascript" src="./location_files/skrollr.min.js.download"></script>
+        <script type="text/javascript" src="./location_files/smooth-scroll.js.download"></script>
+        <script type="text/javascript" src="./location_files/jquery.appear.js.download"></script>
+        <!-- menu navigation -->
+        <script type="text/javascript" src="./location_files/bootsnav.js.download"></script>
+        <script type="text/javascript" src="./location_files/jquery.nav.js.download"></script>
+        <!-- animation -->
+        <script type="text/javascript" src="./location_files/wow.min.js.download"></script>
+        <!-- page scroll -->
+        <script type="text/javascript" src="./location_files/page-scroll.js.download"></script>
+        <!-- swiper carousel -->
+        <script type="text/javascript" src="./location_files/swiper.min.js.download"></script>
+        <!-- counter -->
+        <script type="text/javascript" src="./location_files/jquery.count-to.js.download"></script>
+        <!-- parallax -->
+        <script type="text/javascript" src="./location_files/jquery.stellar.js.download"></script>
+        <!-- magnific popup -->
+        <script type="text/javascript" src="./location_files/jquery.magnific-popup.min.js.download"></script>
+        <!-- portfolio with shorting tab -->
+        <script type="text/javascript" src="./location_files/isotope.pkgd.min.js.download"></script>
+        <!-- images loaded -->
+        <script type="text/javascript" src="./location_files/imagesloaded.pkgd.min.js.download"></script>
+        <!-- pull menu -->
+        <script type="text/javascript" src="./location_files/classie.js.download"></script>
+        <script type="text/javascript" src="./location_files/hamburger-menu.js.download"></script>
+        <!-- counter  -->
+        <script type="text/javascript" src="./location_files/counter.js.download"></script>
+        <!-- fit video  -->
+        <script type="text/javascript" src="./location_files/jquery.fitvids.js.download"></script>
+        <!-- skill bars  -->
+        <script type="text/javascript" src="./location_files/skill.bars.jquery.js.download"></script> 
+        <!-- justified gallery  -->
+        <script type="text/javascript" src="./location_files/justified-gallery.min.js.download"></script>
+        <!--pie chart-->
+        <script type="text/javascript" src="./location_files/jquery.easypiechart.min.js.download"></script>
+        <!-- instagram -->
+        <script type="text/javascript" src="./location_files/instafeed.min.js.download"></script>
+        <!-- retina -->
+        <script type="text/javascript" src="./location_files/retina.min.js.download"></script>
+        <!-- revolution -->
+        <script type="text/javascript" src="./location_files/jquery.themepunch.tools.min.js.download"></script>
+        <script type="text/javascript" src="./location_files/jquery.themepunch.revolution.min.js.download"></script>
+
+        <!-- setting -->
+        <script type="text/javascript" src="./location_files/main.js.download"></script>
+    
+</body></html>

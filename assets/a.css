@@ -1,0 +1,250 @@
+* {
+    box-sizing: border-box;
+}
+
+header img {
+    padding-left: 55px;
+}
+
+
+header a {
+    font-size: 0.9em;
+    color: black;
+    font-family: cursive;
+    font-weight: 600;
+    font-stretch: semi-expanded;
+    height: 10px;
+    margin-bottom: 20px;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+
+.dropdown-content a {
+    display: block;
+    color: black;
+    font-family: sans-serif;
+    font-weight: lighter;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+header .nav-item:last-child {
+    padding-right: 4.5em;
+}
+
+header .nav-item {
+    padding: 0.9em;
+}
+
+header .navbar-brand {
+    padding-left: 8rem;
+}
+
+header .nav-link:hover {
+    color: #fc4103;
+}
+
+/*section1*/
+.section1 {
+    background-color: #fc4103;
+    padding: 20px;
+    box-sizing: content-box;
+    height: 510px;
+}
+
+.carousel-indicators {
+    padding-top: 500px;
+
+}
+
+.carousel-indicators button {
+    color: black;
+}
+
+.carousel-item {
+    color: seashell;
+}
+
+.carousel-item h2 {
+    font-size: 60px;
+    text-align: center;
+}
+
+/*section2*/
+.section2 {
+    height: 625px;
+    padding: 80px 60px 10px 60px;
+}
+
+.section2 .panel p {
+    font-stretch: wider;
+    font-size: 36px;
+    color: #fc4103;
+    font-weight: lighter;
+}
+
+.section2 .panel hr {
+    color: #fc4103;
+}
+
+.section2 p.pt-4 {
+    text-align: justify;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+#nasscom {
+    padding: 70px 0px 10px;
+}
+
+#nasscom p {
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: normal;
+    font-stretch: ultra-expanded;
+    line-height: 40px;
+    font-weight: 400;
+}
+
+
+
+
+
+#va {
+    border: 2px solid black;
+
+}
+
+#va:hover {
+    background-color: black;
+    color: white;
+}
+
+
+#send {
+    background-color: orangered;
+    color: white;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+#send:hover {
+    background-color: black;
+    color: coral;
+}
+
+#bu {
+    padding-top: 0px;
+    margin: 0px;
+}
+
+#bu:hover {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
+
+#b {
+    padding-top: 5vmin;
+}
+
+#bu {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+
+}
+
+#se {
+    width: 100%;
+    background-color: rgb(47, 47, 48);
+    color: rgb(100, 98, 98);
+    padding-inline: 1vmin;
+    padding-top: 1vmin;
+    padding-bottom: 1vmin;
+}
+
+
+#bot {
+    color: black;
+}
+
+/*::placeholder {
+    color: white;
+}
+
+#r {
+    padding-top: -50px;
+    color: white;
+}
+
+#r h3 {
+    font-size: 36px;
+}
+
+#f {
+    background-color: black;
+
+
+}*/
+#im {
+    background-image: url("../assets/lap.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#f {
+    background-color: black;
+}
+
+#r {
+    padding-top: 5vmin;
+    color: white;
+}
+
+#x {
+    padding-top: 5vmin;
+}
+
+#v1 {
+    background-color: orangered;
+    color: white;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+#v1:hover {
+    background-color: black;
+    color: coral;
+}
+
+#se {
+    width: 100%;
+    background-color: rgb(47, 47, 48);
+    color: rgb(100, 98, 98);
+    padding-inline: 1vmin;
+    padding-top: 1vmin;
+    padding-bottom: 1vmin;
+}
+
+::placeholder {
+    color: white;
+}
